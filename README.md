@@ -1,5 +1,1 @@
-# demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
-
-# Author
-kituoh
+Roppers Computing Fundamental HTML course work
